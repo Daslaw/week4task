@@ -20,7 +20,7 @@ namespace week4task
                 break;
                 case int resultOfNumbers when resultOfNumbers >= 100:
                 Console.WriteLine("The result is False"); // return False
-                    break;
+                    break; //
                 default: 
                 Console.WriteLine("Try Again by Entrying Correct Number");
                     break; //End of Switch 
